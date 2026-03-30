@@ -1,0 +1,6 @@
+@Gara_Web247_HostAddress = http://localhost:5200
+
+GET {{Gara_Web247_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
